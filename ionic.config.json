@@ -1,0 +1,7 @@
+{
+  "name": "Strg",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
